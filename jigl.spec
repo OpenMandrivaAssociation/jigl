@@ -13,7 +13,7 @@ URL:            http://xome.net/projects/jigl/
 Source0:        %name-%version.tar.bz2
 BuildRoot:      %_tmppath/%name-%version-%release-buildroot
 BuildArch:      noarch
-Requires:       ImageMagick jhead 
+Requires:       imagemagick jhead 
 
 %description
 jigl (pronounced jiggle) is a perl script that generates a static
