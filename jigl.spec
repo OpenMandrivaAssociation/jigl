@@ -1,6 +1,6 @@
 %define name    jigl
 %define version 2.0.1
-%define release %mkrel 6
+%define release 7
 %define Summary A perl script that generates a static html photo gallery
 
 Summary:        %Summary
